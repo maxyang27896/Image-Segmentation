@@ -9,6 +9,7 @@ The input images are frames of vehicle front camera moving througha forest and t
 
 ## Results
 Using a resized image of 128x128, an average accuracy of 70% was achieved for the considition dataset and 80% was achieved for the forest dataset. 
+
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
     <source src="./img/Recording.mp4" type="video/mp4">
