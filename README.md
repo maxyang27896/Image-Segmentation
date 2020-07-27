@@ -6,3 +6,13 @@ The input images are drone shots of rural areas and the output image is to dstin
 
 ## Forest Segmentation 
 The input images are frames of vehicle front camera moving througha forest and the output image should be able to distinguish between road, frass, vegetation, sky or obstacle. This is intended for vehicle navigation purposes. ![forest](./img/download.png)
+
+## Results
+Using a resized image of 128x128, an average accuracy of 70% was achieved for the considition dataset and 80% was achieved for the forest dataset. 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="./img/Recording.mp4" type="video/mp4">
+    <source src="./img/Recording.ogg" type="video/ogg">
+    <source src="./img/Recording.webm" type="video/webm">
+  </video>
+</figure>
